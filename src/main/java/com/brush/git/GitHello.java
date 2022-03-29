@@ -17,4 +17,11 @@ public class GitHello {
     public void test(){
         System.out.println("test....");
     }
+    
+    //测试 test2
+    public void test2(){
+        
+        int i = 0;
+        
+    }
 }
