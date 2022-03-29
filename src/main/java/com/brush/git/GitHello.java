@@ -6,5 +6,6 @@ public class GitHello {
         System.out.println("hello git2!");
         System.out.println("hello git3!");
         System.out.println("hot-file update");
+        System.out.println("master-file update");
     }
 }
